@@ -1,0 +1,3 @@
+There was an error with file `test/input10.txt`. The following exception was thrown: 
+Bounding node definition must take form (int)ID (double)x_position (double)y_position
+No mesh was created.
